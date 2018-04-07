@@ -1,4 +1,4 @@
-# hamburger-menu-to-slide-nav-animation
+# Hamburger Icon -> Slide Nav Menu Animation
 Dropdwon animation toggle on Hanburger switch menu.
 
 <a href="https://designdrastic.com/snippet/hamburger-menu-to-slide-nav-animation"><strong>View Post</strong></a>
